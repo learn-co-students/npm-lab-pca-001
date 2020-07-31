@@ -1,0 +1,12 @@
+{
+  "name": "npm-lab-pca-001",
+  "version": "0.0.1",
+  "description": "first initializing code along",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "dependencies": {
+    "moment": "^2.27.0"
+  }
+}
