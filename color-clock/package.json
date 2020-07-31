@@ -1,0 +1,26 @@
+
+{
+  "name": "first-package",
+  "version": "1.0.0",
+  "description": "cool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/josephinef9/npm-lab-pca-001.git"
+  },
+  "keywords": [
+    "hi"
+  ],
+  "author": "jo",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/josephinef9/npm-lab-pca-001/issues"
+  },
+  "homepage": "https://github.com/josephinef9/npm-lab-pca-001#readme",
+  "dependencies": {
+    "moment": "^2.27.0"
+  }
+}
